@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "brano": "Un piccolo topo passò sopra il muso di un leone che dormiva...",
+    "testo": "Perché il leone decide di liberare il topo?",
+    "opzioni": ["Perché ha paura", "Perché è divertito", "Perché è stanco", "Perché sono amici"],
+    "corretta": 1
+  },
+  {
+    "id": 2,
+    "brano": "Un piccolo topo passò sopra il muso di un leone che dormiva...",
+    "testo": "Cosa significa 'di soprassalto'?",
+    "opzioni": ["Lentamente", "Con gioia", "Improvvisamente", "A bassa voce"],
+    "corretta": 2
+  }
+]
