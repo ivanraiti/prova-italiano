@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "brano": "IL LEONE E IL TOPO\n\nUn piccolo topo, correndo imprudentemente, passò sopra il muso di un leone che dormiva. Il re della foresta, svegliatosi di soprassalto, lo afferrò con la zampa pronto a divorarlo. 'Perdonami!' squittì il topolino, 'Se mi lascerai andare, ti sarò riconoscente per sempre'. Il leone, divertito dall'idea che un minuscolo essere potesse aiutarlo, scoppiò a ridere e lo risparmiò.\n\nPoco tempo dopo, il leone cadde in una trappola tesa dai cacciatori. Legato stretto da grosse corde, non riusciva a liberarsi e ruggiva disperato. Il topo, udite le grida, accorse e con i suoi dentini aguzzi rosicchiò le corde finché il leone non fu libero. 'Vedi?' disse il piccolo roditore, 'Anche un piccolo topo può salvare un grande leone'.",
+    "testo": "Perché il leone si sveglia all'inizio della storia?",
+    "opzioni": ["Perché ha sentito un ruggito", "Perché il topo gli è passato sul muso", "Perché i cacciatori lo hanno chiamato", "Perché aveva fame"],
+    "corretta": 1
+  },
+  { "id": 2, "testo": "Cosa significa l'espressione 'di soprassalto'?", "opzioni": ["Con molta calma", "Mentre rideva", "Improvvisamente, per lo spavento", "Dopo averci pensato"], "corretta": 2 },
+  { "id": 3, "testo": "Qual è la reazione del leone alla promessa del topo?", "opzioni": ["Si arrabbia terribilmente", "Si spaventa", "Trova l'idea divertente e ride", "Ignora il topo"], "corretta": 2 },
+  { "id": 4, "testo": "Cosa succede al leone poco tempo dopo?", "opzioni": ["Diventa amico dei cacciatori", "Cade in una trappola", "Si addormenta di nuovo", "Incontra un altro leone"], "corretta": 1 },
+  { "id": 5, "testo": "Come riesce il topo a liberare il leone?", "opzioni": ["Chiamando gli altri animali", "Rosicchiando le corde con i denti", "Usando un coltello", "Spaventando i cacciatori"], "corretta": 1 },
+  { "id": 6, "testo": "Qual è la morale principale di questa favola?", "opzioni": ["I leoni sono gli animali più forti", "Bisogna sempre avere paura dei cacciatori", "Nessuno è così piccolo da non poter aiutare un grande", "I topi non dovrebbero correre nel bosco"], "corretta": 2 },
+  { "id": 7, "testo": "Nella frase 'lo risparmiò', il pronome 'lo' si riferisce a:", "opzioni": ["Al leone", "Al topo", "Al muso", "Al cacciatore"], "corretta": 1 },
+  { "id": 8, "testo": "Che tipo di testo hai appena letto?", "opzioni": ["Un articolo di giornale", "Una poesia", "Una favola", "Un testo scientifico"], "corretta": 2 },
+  { "id": 9, "testo": "Quale aggettivo descrive meglio il topo alla fine della storia?", "opzioni": ["Imprudente", "Riconoscente", "Gelosissimo", "Cattivo"], "corretta": 1 },
+  { "id": 10, "testo": "Dove è ambientata la storia?", "opzioni": ["In una città", "In una foresta", "In una fattoria", "In un deserto"], "corretta": 1 }
+]
